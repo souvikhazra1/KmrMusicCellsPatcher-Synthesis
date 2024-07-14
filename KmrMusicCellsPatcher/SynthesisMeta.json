@@ -1,0 +1,20 @@
+{
+  "Nickname": "KmrMusicCellsPatcher",
+  "Visibility": "Visible",
+  "OneLineDescription": "",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": [
+    "Oblivion",
+    "SkyrimLE",
+    "SkyrimSE",
+    "SkyrimVR",
+    "Fallout4",
+    "EnderalLE",
+    "EnderalSE",
+    "SkyrimSEGog",
+    "Starfield",
+    "Fallout4VR"
+  ]
+}
